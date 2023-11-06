@@ -1,5 +1,5 @@
 It is a simple JavaScript project in which we can understand the backend process of sending aur canceling friend request on social media platform
-
+Demo Link: https://ayush1016.github.io/Add-Friend/
 
 ![Git](https://github.com/Ayush1016/Add-Friend/assets/97796452/c25efa0c-44c9-4d99-b2f7-392eeeea8114)
                                         Img. 1
